@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 321}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 10283
+  controlID: 106
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 10223
+  controlID: 53
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 10224
+  controlID: 54
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -299,8 +299,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 454.6
-    y: 19
+    x: 453.6
+    y: 73.6
     width: 766
     height: 471
   m_SerializedDataModeController:
@@ -355,23 +355,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 1536
-      height: 682.8
+      width: 766
+      height: 450
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 768, y: 341.4}
+    m_Translation: {x: 383, y: 225}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -768
-      y: -341.4
-      width: 1536
-      height: 682.8
+      x: -383
+      y: -225
+      width: 766
+      height: 450
     m_MinimalGUI: 1
-  m_defaultScale: 0.7902778
-  m_LastWindowPixelSize: {x: 1920, y: 879.75}
+  m_defaultScale: 0.4986979
+  m_LastWindowPixelSize: {x: 957.5, y: 588.75}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -414,9 +414,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2aa2ffff
-      m_LastClickedID: -24022
-      m_ExpandedIDs: 8cfaffff90faffff94faffff98faffff9cfaffffa0faffff12fbffff16fbffff1afbffff1efbffff22fbffff26fbffff28fbffffec770000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 28fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -963,7 +963,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.015006675, y: 0.9804142, z: -0.18033358, w: 0.08710758}
     speed: 2
-    m_Value: {x: 0.015006676, y: 0.9804142, z: -0.18033358, w: 0.08710758}
+    m_Value: {x: 0.014995095, y: 0.9796577, z: -0.18019444, w: 0.08704036}
   m_Size:
     m_Target: 10.115071
     speed: 2
@@ -1188,14 +1188,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Unity projects\ButWorse(ButBetter)
+  m_LastProjectPath: C:\Unity projects\DarkSoulsButWorse-butbetter-
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: de7a0000
-    m_LastClickedID: 31454
-    m_ExpandedIDs: 00000000de7a0000e07a0000e27a0000e47a000000ca9a3bffffff7f
+    m_SelectedIDs: d67b0000
+    m_LastClickedID: 31702
+    m_ExpandedIDs: 00000000d67b0000d87b0000da7b0000dc7b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1223,7 +1223,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000de7a0000e07a0000e27a0000e47a000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000d67b0000d87b0000da7b0000dc7b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
